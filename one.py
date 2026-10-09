@@ -57,5 +57,3 @@ students.reverse()#to reverse the list from last to first
 print(students)#output:['ram', 'sita', 'hari', 'shyam', 'ram']
 for student in students:# using for loop to access the lists items orderly in vertically
     print(student) 
-
-#python tuples: pythin
